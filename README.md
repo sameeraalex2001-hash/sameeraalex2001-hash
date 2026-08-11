@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Sameera 👋
 
-<!--
-**sameeraalex2001-hash/sameeraalex2001-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Reporting Analyst | SQL · Power BI · Excel · Python (Pandas, NumPy)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 2 years of experience in data reporting, stakeholder MIS, and framework-based analysis (Gartner, McKinsey, WEF) across academic and administrative functions
+🧮 Independently developed SQL and Power BI skills through self-directed projects
+🧹 Comfortable across the full analytics workflow: data cleaning → querying → dashboarding → insights
+📌 Featured projects:
+Customer Behaviour Analysis — RFM segmentation on 3,900+ customers using Python, SQL, and Power BI
+Academic Performance Analysis — End-to-end KPI analysis and dashboarding on 1,410 student records
+🌱 Currently building my analytics portfolio while exploring Data Analyst / Business Analyst roles
+📫 Reach me on LinkedIn
